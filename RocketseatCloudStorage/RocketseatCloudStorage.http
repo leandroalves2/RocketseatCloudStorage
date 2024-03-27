@@ -1,0 +1,6 @@
+@RocketseatCloudStorage_HostAddress = http://localhost:5045
+
+GET {{RocketseatCloudStorage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

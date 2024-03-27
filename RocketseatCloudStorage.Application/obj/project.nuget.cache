@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XlCnmtGxOlcjKm71ir8Jd/nzU7wt1wdAz1ejnr/tjWOQVcxtQ6C94iPQeEmKh2SmnqNXthy1Ujzfzobjmt77bA==",
+  "success": true,
+  "projectFilePath": "D:\\Documentos\\Estudos\\Projetos\\RocketseatCloudStorage\\RocketseatCloudStorage.Application\\RocketseatCloudStorage.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leandro\\.nuget\\packages\\file.typechecker\\4.0.0\\file.typechecker.4.0.0.nupkg.sha512",
+    "C:\\Users\\Leandro\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Leandro\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Leandro\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

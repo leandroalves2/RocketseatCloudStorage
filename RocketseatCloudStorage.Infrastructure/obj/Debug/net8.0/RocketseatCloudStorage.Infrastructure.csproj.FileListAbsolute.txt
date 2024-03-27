@@ -1,0 +1,15 @@
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Infrastructure\bin\Debug\net8.0\RocketseatCloudStorage.Infrastructure.deps.json
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Infrastructure\bin\Debug\net8.0\RocketseatCloudStorage.Infrastructure.dll
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Infrastructure\bin\Debug\net8.0\RocketseatCloudStorage.Infrastructure.pdb
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Infrastructure\bin\Debug\net8.0\RocketseatCloudStorage.Domain.dll
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Infrastructure\bin\Debug\net8.0\RocketseatCloudStorage.Domain.pdb
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Infrastructure\obj\Debug\net8.0\RocketseatCloudStorage.Infrastructure.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Infrastructure\obj\Debug\net8.0\RocketseatCloudStorage.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Infrastructure\obj\Debug\net8.0\RocketseatCloudStorage.Infrastructure.AssemblyInfoInputs.cache
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Infrastructure\obj\Debug\net8.0\RocketseatCloudStorage.Infrastructure.AssemblyInfo.cs
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Infrastructure\obj\Debug\net8.0\RocketseatCloudStorage.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Infrastructure\obj\Debug\net8.0\RocketseatCloudStorage.Infrastructure.csproj.CopyComplete
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Infrastructure\obj\Debug\net8.0\RocketseatCloudStorage.Infrastructure.dll
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Infrastructure\obj\Debug\net8.0\refint\RocketseatCloudStorage.Infrastructure.dll
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Infrastructure\obj\Debug\net8.0\RocketseatCloudStorage.Infrastructure.pdb
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Infrastructure\obj\Debug\net8.0\ref\RocketseatCloudStorage.Infrastructure.dll

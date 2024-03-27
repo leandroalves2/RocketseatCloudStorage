@@ -1,0 +1,12 @@
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Domain\bin\Debug\net8.0\RocketseatCloudStorage.Domain.deps.json
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Domain\bin\Debug\net8.0\RocketseatCloudStorage.Domain.dll
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Domain\bin\Debug\net8.0\RocketseatCloudStorage.Domain.pdb
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Domain\obj\Debug\net8.0\RocketseatCloudStorage.Domain.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Domain\obj\Debug\net8.0\RocketseatCloudStorage.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Domain\obj\Debug\net8.0\RocketseatCloudStorage.Domain.AssemblyInfoInputs.cache
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Domain\obj\Debug\net8.0\RocketseatCloudStorage.Domain.AssemblyInfo.cs
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Domain\obj\Debug\net8.0\RocketseatCloudStorage.Domain.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Domain\obj\Debug\net8.0\RocketseatCloudStorage.Domain.dll
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Domain\obj\Debug\net8.0\refint\RocketseatCloudStorage.Domain.dll
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Domain\obj\Debug\net8.0\RocketseatCloudStorage.Domain.pdb
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Domain\obj\Debug\net8.0\ref\RocketseatCloudStorage.Domain.dll

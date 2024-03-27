@@ -1,0 +1,15 @@
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Application\bin\Debug\net8.0\RocketseatCloudStorage.Application.deps.json
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Application\bin\Debug\net8.0\RocketseatCloudStorage.Application.dll
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Application\bin\Debug\net8.0\RocketseatCloudStorage.Application.pdb
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Application\obj\Debug\net8.0\RocketseatCloudStorage.Application.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Application\obj\Debug\net8.0\RocketseatCloudStorage.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Application\obj\Debug\net8.0\RocketseatCloudStorage.Application.AssemblyInfoInputs.cache
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Application\obj\Debug\net8.0\RocketseatCloudStorage.Application.AssemblyInfo.cs
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Application\obj\Debug\net8.0\RocketseatCloudStorage.Application.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Application\obj\Debug\net8.0\RocketseatCloudStorage.Application.dll
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Application\obj\Debug\net8.0\refint\RocketseatCloudStorage.Application.dll
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Application\obj\Debug\net8.0\RocketseatCloudStorage.Application.pdb
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Application\obj\Debug\net8.0\ref\RocketseatCloudStorage.Application.dll
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Application\bin\Debug\net8.0\RocketseatCloudStorage.Domain.dll
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Application\bin\Debug\net8.0\RocketseatCloudStorage.Domain.pdb
+D:\Documentos\Estudos\Projetos\RocketseatCloudStorage\RocketseatCloudStorage.Application\obj\Debug\net8.0\RocketseatCloudStorage.Application.csproj.CopyComplete
