@@ -1,25 +1,38 @@
-# NLW Expert - Trilha de C#
+# Rocketseat Cloud Storage
 
-Participei do evento NLW Expert trilha de C# da Rocketseat, criando uma API para criar seu próprio leilão. 
-Durante o evento, desenvolvemos uma aplicação back-end em C# utilizando o framework .NET. Os principais conteúdos abordados incluíram:
+## Descrição
 
-## Conteúdos
+O **Rocketseat Cloud Storage** é uma aplicação ASP.NET Core que integra com o Google Drive para permitir o upload de arquivos de perfil. A aplicação inclui um serviço de armazenamento baseado no Google Drive e uma API para gerenciamento de usuários e uploads de fotos de perfil.
 
-- **Desenvolvimento de Aplicação Back-End em C# com .NET**:
-  - Implementação de controladores, entidades, repositórios e casos de uso.
-  
-- **DB Browser for SQLite**:
-  - Ferramenta utilizada para visualização do banco de dados.
+## Estrutura do Projeto
 
-- **Entity Framework**:
-  - Utilização do ORM para traduzir entidades em queries.
+- **`RocketseatCloudStorage.Application`**: Contém os casos de uso e serviços de aplicação.
+- **`RocketseatCloudStorage.Domain`**: Define entidades e interfaces de armazenamento.
+- **`RocketseatCloudStorage.Infrastructure`**: Implementações específicas de armazenamento, como o Google Drive.
+- **`RocketseatCloudStorage`**: Contém controladores e configurações principais da API.
 
-- **Testes Unitários**:
-  - Criação de testes unitários com dados mockados utilizando Moq e Bogus.
+## Funcionalidades
 
-## Ferramentas e Tecnologias Utilizadas
+- **Upload de Arquivos**: Permite que os usuários façam upload de arquivos para o Google Drive através da API.
+- **Previsão do Tempo**: Um exemplo de controlador que retorna previsões do tempo.
+- **Gerenciamento de Usuários**: Inclui a lógica para o gerenciamento de usuários e autenticação.
 
-- **C# e .NET**: Linguagem e framework principal para desenvolvimento da aplicação.
-- **DB Browser for SQLite**: Ferramenta para visualização do banco de dados.
-- **Entity Framework**: ORM utilizado para mapeamento objeto-relacional.
-- **Moq e Bogus**: Bibliotecas utilizadas para criação de testes unitários com dados mockados.
+## Configuração
+
+### Google Drive API
+
+Para utilizar a integração com o Google Drive, você deve configurar as credenciais de OAuth 2.0:
+
+1. Acesse o [Console de APIs do Google](https://console.developers.google.com/).
+2. Crie um novo projeto ou selecione um existente.
+3. Habilite a API do Google Drive.
+4. Configure as credenciais de OAuth 2.0 e obtenha o `ClientId` e `ClientSecret`.
+5. Atualize o arquivo `appsettings.json` com suas credenciais:
+
+   ```json
+   {
+     "CloudStorage": {
+       "ClientId": "<YOUR_CLIENT_ID>",
+       "ClientSecret": "<YOUR_CLIENT_SECRET>"
+     }
+   }
