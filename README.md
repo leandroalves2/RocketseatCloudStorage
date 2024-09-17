@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O **Rocketseat Cloud Storage** é uma aplicação ASP.NET Core que integra com o Google Drive para permitir o upload de arquivos de perfil. A aplicação inclui um serviço de armazenamento baseado no Google Drive e uma API para gerenciamento de usuários e uploads de fotos de perfil.
+O **Rocketseat Cloud Storage** é uma aplicação ASP.NET Core criada no evento de 2024 pela Rocketseat, que integra com o Google Drive para permitir o upload de arquivos de perfil. A aplicação inclui um serviço de armazenamento baseado no Google Drive e uma API para gerenciamento de usuários e uploads de fotos de perfil.
 
 ## Estrutura do Projeto
 
